@@ -14,3 +14,16 @@ var tableItems = ['bottle', 'pen', 'mouse', 'paper', 'sunglass'];
 var item3 = tableItems[3];
 tableItems[4] = 'notebook';
 var penIndex = tableItems.indexOf('pen');
+
+//* push pop
+//* Conditionals
+
+if (tableItems.length > 4){
+
+}
+else if (tableItems[3] == "pen"){
+
+}
+else{
+    
+}
